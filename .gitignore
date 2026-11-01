@@ -1,0 +1,25 @@
+
+# ASP.NET
+**/bin/
+**/obj/
+.vs/
+
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# IDE
+**/.idea/
+.vscode/
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets.json
+*.pem
+*.key
+*.p12
+*.pfx
